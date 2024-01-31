@@ -2,17 +2,20 @@
 
 ![403 Error](https://qph.cf2.quoracdn.net/main-qimg-2e82e8fd2b294107d008d1dd731c143a-lq)
 
-### Run this code in vps terminal to fix 403 error 
+ Follow the steps to fix that
 
+
+### Step 1 : Run this code in vps terminal 
 
  ``` 
  curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/install_kernel.sh && chmod +x ./install_kernel.sh && ./install_kernel.sh
 ```
 
 
-after that set answers like this :
+### Step 2 : Enter this answers while want an input 
 
-```1
+```
+1
 12
 y
 y
